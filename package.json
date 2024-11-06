@@ -1,18 +1,18 @@
 
 
 {
-  "name": "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳",
+  "name": "ALONE-MD",
   "version": "10.8.1",
-  "description": "𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 𝙼𝚊𝚕𝚟𝚒𝚗 𝚃𝚎𝚌𝚑 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 263780166288, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘sing 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳.",
+  "description": "𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 alone boy.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name ALONE-MD",
     "stop": "pm2 stop MALVIN-MD",
-    "restart": "pm2 restart MALVIN-MD"
+    "restart": "pm2 restart ALONE-MD"
   },
-  "keywords": ["malvin-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Lord Malvin",
+  "keywords": ["alone-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "alone boy",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
