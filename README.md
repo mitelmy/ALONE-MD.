@@ -1,177 +1,105 @@
+# ALONE-MD 
+
+#
+![spider](https://github.com/user-attachments/assets/d98c3b3c-f48e-497f-a083-5c3854085b7e)
+
+## How to Get ALONE-MD 
+
+1. Click on Fork repo <br>
+
+<a href="https://github.com/Aloneboytech/ALONE-MD-/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
- </a>
-</p>
+🌹 to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.💫
 
+2. Obtain a bot session: 
 
-
- **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F22B00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
-
- </a><a><img src='https://g.top4top.io/p_3218pggm51.jpg'/></a>
-<p align="center">
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  
-  <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-**<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=F242B00&center=true&width=435&lines=MALVIN+MD+%E2%9C%A8%EF%B8%8F;The+Best+Whatsapp+Bot+;Created+by+𝙻𝙾𝚁𝙳+мαℓνιи." alt="Typing SVG" /></a>**
-
-
- </p>
-<p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>                                                                                                                                                    <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/MALVIN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/kingmalvn/MALVIN-MD' :: Visitor's Count"/></p>
-
----
-
-
+<a href='https://alone-md-q9gg.onrender.com' target="_blank">
+    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
 
----
+##
+<a href='https://alone-md-q9gg.onrender.com' target="_blank">
+    <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=Blue&color=Blue'/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-MD"><b>MALVIN-MD</b></a> 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
-</p>
+- **Render Deployment:**
+1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
+2. Create a new web service.  
+3. Choose **Public Git Repository**.  
+4. In the field, enter `https://github.com/Aloneboytech/ALONE-MD-`.
+5. Click **Connect**.  
+6. Select the **Free Plan** if you don’t want to pay.
+7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
-<p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+```env
+PREFIX=!
+AUTO_READ_STATUS=yes
+AUTO_DOWNLOAD_STATUS=yes
+PM_PERMIT=no
+BOT_NAME=ALONE-MD 
+BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
+PUBLIC_MODE=yes
+DATABASE_URL=mongodb://${{MONGO_INITDB_ROOT_USERNAME}}:${{MONGO_INITDB_ROOT_PASSWORD}}@${{RAILWAY_TCP_PROXY_DOMAIN}}:${{RAILWAY_TCP_PROXY_PORT}}
+OWNER_NAME=alone boy tech 
+NUMERO_OWNER=554488122687
+WARN_COUNT=3
+STARTING_BOT_MESSAGE=yes
+PRESENCE=1
+PM_CHATBOT=no
+SESSION_ID='alone'
+ANTI_VIEW_ONCE="yes"
+ANTI_COMMAND_SPAM=no
+```
 
-***
-####  
-# My Awesome Project
+8. Click **Add env** to save, then edit as needed. Don’t forget to enter your session ID.
+9. Click **Deploy Service** and enjoy!
 
-Welcome to my awesome project! Here you'll find...
-## YouTube Channel
+    
+- **Github Deployement**
 
-Check out my YouTube channel for tutorials and more!
+  1. Fork The Repo
+  2. Edit the file `exemple_de_set.env` to `set.env` and put your session_ID in
+  3. create a new file `.github/workflows/deploy.yml` and put this content in :
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@malvintech2)
+```yml
+name: Node.js CI
 
-## SETUP
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */4 * * *'
 
-1. Fork the repo
-    <br>
-    <br>
-<a href='https://github.com/kingmalvn/MALVIN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+jobs:
+  build:
 
+    runs-on: ubuntu-latest
 
-3. Get Session ID
-    <br>
-    <br>
-<a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=red&color=blue'/></a>
+    strategy:
+      matrix:
+        node-version: [20.x]
 
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
+    - name: Install dependencies
+      run: |
+        npm install -g pm2
+        npm install
 
-***
+    - name: Start application with timeout
+      run: |
+        timeout 14520s npm run alone
 
-
-
-## 🫅LORD MALVIN💫
-
-***
-
-⚜️  CREATE A HEROKU ACCOUNT  *[ HEROKU ]*
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://signup.heroku.com/)
-
-
-♾️  DEPLOY MALVIN MD BOT *[ HEROKU ]*
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
-
-***
-
-♾️  DEPLOY ON [ RENDER ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://render.com)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
-
-***
-
-♾️  CREATE A PANEL ACCOUNT HERE IF YOU DON'T HAVE
-ONE 🫡👇👇
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Create_An_Account_Click_Here-blue.svg)]([https://account.solarhosting.cc/register?ref=sWDesIAr)
-
-***
-
-♾️  DEPLOY ON [ Panel ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://account.solarhosting.cc/register?ref=sWDesIAr)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
-
- # ⚡ MALVIN MD INFO
-
- 
-ℹ️  <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
-
-***
-
-</p>
-   
-
-## WhatsApp Channel
-
-Join our WhatsApp channel for updates and discussions!
-
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
-
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## NOTE:
-
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow Malvin Md Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
-
-* [🧑‍💻 Join malvin tech Telegram  🧑‍💻](https://t.me/malvintech)
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/GFp6TrVc6ebAPK9qIsEu50)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-- *MALVIN MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use MALVIN MD at your own risk by keeping this warning in mind.*
-  
-  #### ```MALVIN KING PROFILE VIEWS 🥰```
-![Visitor Count](https://profile-counter.glitch.me/kingmalvn/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
+ ```
