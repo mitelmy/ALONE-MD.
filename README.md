@@ -34,28 +34,6 @@
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
 ```env
-PREFIX=!
-AUTO_READ_STATUS=yes
-AUTO_DOWNLOAD_STATUS=yes
-PM_PERMIT=no
-BOT_NAME=ALONE-MD 
-BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
-PUBLIC_MODE=yes
-DATABASE_URL=mongodb://${{MONGO_INITDB_ROOT_USERNAME}}:${{MONGO_INITDB_ROOT_PASSWORD}}@${{RAILWAY_TCP_PROXY_DOMAIN}}:${{RAILWAY_TCP_PROXY_PORT}}
-OWNER_NAME=alone boy tech 
-NUMERO_OWNER=554488122687
-WARN_COUNT=3
-STARTING_BOT_MESSAGE=yes
-PRESENCE=1
-PM_CHATBOT=no
-SESSION_ID='alone'
-ANTI_VIEW_ONCE="yes"
-ANTI_COMMAND_SPAM=no
-```
-
-8. Click **Add env** to save, then edit as needed. Don’t forget to enter your session ID.
-9. Click **Deploy Service** and enjoy!
-
     
 - **Github Deployement**
 
