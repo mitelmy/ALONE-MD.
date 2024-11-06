@@ -73,8 +73,6 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: '0 */4 * * *'
 
 jobs:
   build:
@@ -95,12 +93,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: |
-        npm install -g pm2
-        npm install
+      run: npm install
 
-    - name: Start application with timeout
-      run: |
-        timeout 14520s npm run alone
+    - name: Start application
+      run: npm start
 
  ```
