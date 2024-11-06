@@ -34,7 +34,21 @@
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
 ```env
-    
+
+ SESSION_ID=
+AUTO_STATUS_SEEN=true
+REJECT_CALL=false
+MODE=public
+WELCOME=false
+AUTO_READ=false
+AUTO_TYPING=false
+AUTO_RECORDING=false
+ALWAYS_ONLINE=false
+AUTO_BLOCK=true
+AUTO_REACT=false
+PREFIX=
+ ```
+
 - **Github Deployement**
 
   1. Fork The Repo
